@@ -16,9 +16,9 @@ My goal is to continuously enhance my skills, contribute to exciting projects, a
 ## 🚀 Projects
 Here are some of the projects I've worked on:
 
-- **Netflix Clone**: A replica of the popular streaming service using React.js.
+- **Netflix Clone**: A try to make replica of the UI of popular streaming service using only HTML and CSS.
 - **Spotify Clone**: A web-based music player created with HTML, CSS, and JavaScript.
-- **Twitter Clone**: A social media platform clone built with React.js and Node.js.
+- **Twitter Clone**: A social media platform twtter's UI clone built with Html and Tailwind CSS.
 
 Feel free to explore my repositories to see more of my work!
 
