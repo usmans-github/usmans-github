@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @usmans-github
-- 👀 I’m interested in coding ...
-- 🌱 I’m currently learning software engineering...
-- 💞️ I’m looking to collaborate on github...
-- 📫 How to reach me usmanali730771@gmail.com...
-- 😄 Pronouns: He...
-- ⚡ Fun fact: ...
+# Hi, I'm Usman 👋
 
-<!---
-usmans-github/usmans-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am Usman, a passionate **Web Developer** currently pursuing a degree in **Software Engineering**. I specialize in creating modern, responsive, and user-friendly websites. With a focus on front-end and back-end development, I aim to build high-end websites that help businesses thrive.
+
+My goal is to continuously enhance my skills, contribute to exciting projects, and grow my career in web development.
+
+---
+
+## 🛠️ Skills & Expertise
+- **Front-End:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React.js
+- **Back-End:** Node.js
+- **Version Control:** Git, GitHub
+
+---
+
+## 🚀 Projects
+Here are some of the projects I've worked on:
+
+- **Netflix Clone**: A replica of the popular streaming service using React.js.
+- **Spotify Clone**: A web-based music player created with HTML, CSS, and JavaScript.
+- **Twitter Clone**: A social media platform clone built with React.js and Node.js.
+
+Feel free to explore my repositories to see more of my work!
+
+---
+
+## 📫 Contact Me
+- LinkedIn: [www.linkedin.com/in/m-usman-9ba303307](https://www.linkedin.com/in/m-usman-9ba303307)
+
+---
+
+I'm always open to new opportunities and collaborations. Let's connect and create something amazing together!
+
