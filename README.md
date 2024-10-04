@@ -8,7 +8,7 @@ My goal is to continuously enhance my skills, contribute to exciting projects, a
 
 ## 🛠️ Skills & Expertise
 - **Front-End:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React.js
-- **Back-End:** Node.js
+- **Back-End:** Express js, Mongodb,  Node.js
 - **Version Control:** Git, GitHub
 
 ---
