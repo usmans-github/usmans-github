@@ -17,8 +17,8 @@ I thrive in collaborative environments and care deeply about clean code, user ex
 - __Full Stack Development:__ Scalable web apps using Laravel, React.js, and Vue.js 
 - __Backend Systems:__ API development, database design, Laravel optimization
 - __Frontend UI:__ Responsive interfaces with Vue.js, React, Tailwind CSS
--__Database Management:__ MySQL and SQLite handling and optimization
--__API Integration:__ Connecting tools and platforms for seamless functionality.
+- __Database Management:__ MySQL and SQLite handling and optimization
+- __API Integration:__ Connecting tools and platforms for seamless functionality
 
 ---
 
@@ -30,10 +30,10 @@ I believe in building solutions that work and last. I focus on understanding the
 
 ### Skills
 
-__Backend:__ Laravel, NodeJs, Express Js, PHP, JavaScript, RESTful APIs
-__Frontend:__ React, NextJs, VueJs, Tailwind CSS
-__Tools & Version Control:__ Git, GitHub, Postman, Figma
-__Other:__ Team Collaboration, Agile Development
+__Backend:__ Laravel, NodeJs, Express Js, PHP, JavaScript, RESTful APIs\
+__Frontend:__ React, NextJs, VueJs, Tailwind CSS\
+__Tools & Version Control:__ Git, GitHub, Postman, Figma\
+__Other:__ Team Collaboration, Agile Development\
 
 ---
 
