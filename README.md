@@ -1,69 +1,45 @@
-# Hi there! 👋 Welcome to My GitHub Profile
+## Muhammad Usman
 
-I'm **Usman**, a passionate **Full-Stack Web Developer** with expertise in building scalable, efficient, and user-friendly web applications. I specialize in creating end-to-end solutions that solve real-world problems while delivering exceptional user experiences.
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on a **Doctor Appointment System** ([Repository](https://github.com/usmans-github/h-m-s)).
-- 🌱 Learning **Laravel** and **PHP** to expand my backend development skills.
-- 💼 Available for freelance projects on **Upwork** ([Upwork](https://www.upwork.com/freelancers/~018cb94f5ef8194d56?mp_source=share)).
-- 💼 Available for freelance projects on **LinkedIn** ([LinkedIn](https://www.linkedin.com/in/m-usman-9ba303307/)).
-- 💡 Dedicated to continuous learning and collaboration.
+__Full Stack Developer | Backend-Focused | Frontend-Capable__
 
 ---
 
-## 🛠️ Skills
+### About Me
 
-### Frontend:
-- React.js, EJS, Next.js
-- Tailwind CSS Bootstrap, Shadcn UI
-- HTML5, CSS3, JavaScript (ES6+)
-
-
-### Backend:
-- Node.js, Express.js
-- MongoDB, Mongoose
-- Next.js, RESTful APIs
-
-### Version Control:
-- Git, GitHub
-
-### Others:
-- MERN Stack Development
-- Full-Stack Application Design
+Hi there! I’m Usman, a dedicated Full Stack Developer with hands-on experience in building fast, secure, and scalable web 
+applications. I specialized in Laravel/Node Js for backend development and Vue.js/React.js for modern frontend experiences. I’ve helped build production-grade solutions that solve real-world problems.
+I thrive in collaborative environments and care deeply about clean code, user experience and performance optimization. Let’s build something awesome!
 
 ---
 
-## 🌟 Featured Projects
+### My Expertise
 
-### 🏥 [Doctor Appointment System](https://github.com/usmans-github/h-m-s)
-A full-stack application to manage doctor appointments with an admin panel, role-based access, and responsive UI.
-
-### 🔗 [Next Link](https://github.com/usmans-github/next-link)
-A powerful and easy-to-use URL shortener built with Next.js and MongoDB, designed for seamless performance and simplicity.
-
-### 🔒 [PassOP](https://github.com/usmans-github/passop)
-A secure password management tool, making it easier to manage and protect your credentials.
+- __Full Stack Development:__ Scalable web apps using Laravel, React.js, and Vue.js 
+- __Backend Systems:__ API development, database design, Laravel optimization
+- __Frontend UI:__ Responsive interfaces with Vue.js, React, Tailwind CSS
+-__Database Management:__ MySQL and SQLite handling and optimization
+-__API Integration:__ Connecting tools and platforms for seamless functionality.
 
 ---
 
-## 📫 Let's Connect!
+### My Approach
 
-- **Portfolio**: [usmans-portfolio.vercel.app](https://usmans-portfolio.vercel.app)
-- **GitHub**: [@usmans-github](https://github.com/usmans-github)
-- **Email**: usmanali730771@gmail.com
+I believe in building solutions that work and last. I focus on understanding the core problem and user needs before writing code. At __NBTHub Software Company__, I led two internal projects __(HR and Doctor Management Systems)__ and contributed to real worlde ecommerce app with a performance-first mindset. I enjoy working in cross-functional teams and take ownership of delivering clean, scalable, and maintainable code.
 
 ---
 
-## 🎯 Goals for 2025
+### Skills
 
-- Build an **Ecommerce App**.
-- Launch a professional **SaaS**.
-- Collaborate on open-source projects.
-- Expand expertise in **Laravel** and backend development.
+__Backend:__ Laravel, NodeJs, Express Js, PHP, JavaScript, RESTful APIs
+__Frontend:__ React, NextJs, VueJs, Tailwind CSS
+__Tools & Version Control:__ Git, GitHub, Postman, Figma
+__Other:__ Team Collaboration, Agile Development
 
 ---
 
-Feel free to explore my repositories, and don't hesitate to reach out for collaboration or freelancing opportunities. Let's build something amazing together! 🚀
+### Let’s Connect
+
+Got a project in mind? I’d love to collaborate and bring it to life with clean code and modern development practices.\
+[__Email__](usmanali730771@gmail.com)\
+[__LinkedIn__](https://www.linkedin.com/in/m-usman-9ba303307/)\
+[__Github__](https://github.com/usmans-github/)
