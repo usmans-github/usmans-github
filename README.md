@@ -40,6 +40,5 @@ __Other:__ Team Collaboration, Agile Development\
 ### Let’s Connect
 
 Got a project in mind? I’d love to collaborate and bring it to life with clean code and modern development practices.\
-[__Email__](usmanali730771@gmail.com)\
 [__LinkedIn__](https://www.linkedin.com/in/m-usman-9ba303307/)\
 [__Github__](https://github.com/usmans-github/)
