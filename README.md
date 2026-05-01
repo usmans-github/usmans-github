@@ -36,9 +36,3 @@ __Tools & Version Control:__ Git, GitHub, Postman, Figma\
 __Other:__ Team Collaboration, Agile Development\
 
 ---
-
-### Let’s Connect
-
-Got a project in mind? I’d love to collaborate and bring it to life with clean code and modern development practices.\
-[__LinkedIn__](https://www.linkedin.com/in/m-usman-9ba303307/)\
-[__Github__](https://github.com/usmans-github/)
